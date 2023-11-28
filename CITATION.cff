@@ -1,0 +1,16 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Houssem Eddine,
+  given-names: Younes
+orcid: https://orcid.org/0009-0006-3471-4177
+- family-names: D'Avignon
+  given-names: Katherine
+orcid: https://orcid.org/0000-0002-0146-9981
+- family-names: Laurencelle
+  given-names: François
+orcid: 
+
+title:Houssem-Eddine-Younes/ETS-Openstudio-Measure: ETS_OS_MEASURE_V1.0.0
+version: v1.0.0
+date-released: 2023-11-28
