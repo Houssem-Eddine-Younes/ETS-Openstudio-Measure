@@ -1,2 +1,2 @@
 # ETS-Openstudio-Measure
-An Openstudio Model measure for Electric thermal storage mode devices
+An Openstudio model measure for Electric thermal storage (ETS) devices
